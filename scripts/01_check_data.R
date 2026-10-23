@@ -4,8 +4,14 @@
 persons <- read.csv("data/pslm_person_subset.csv")
 households <- read.csv("data/pslm_hh_subset.csv")
 
-print(names(persons))
-print(names(households))
+# Check the column names
+names(persons)
+names(households)
 
-print(head(persons))
-print(head(households))
+# Display the first six rows
+head(persons)
+head(households)
+
+# Count the rows in each file
+nrow(persons)
+nrow(households)
