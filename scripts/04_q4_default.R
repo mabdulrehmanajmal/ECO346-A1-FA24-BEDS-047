@@ -1,4 +1,3 @@
-
 # ECO346 Assignment 1 - Q4: Default Plot
 # Variant 7: Urban Balochistan
 # Save this default figure before creating the redesign.
