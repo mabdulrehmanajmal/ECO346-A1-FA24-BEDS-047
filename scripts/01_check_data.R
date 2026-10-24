@@ -1,4 +1,3 @@
-
 # ECO346 Assignment 1 - Data check
 # Variant 7: Urban Balochistan
 
